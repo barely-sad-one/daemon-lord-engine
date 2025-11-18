@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - "-std=c++23"
+    - "-I/home/Abhinesh/personal/daemon_lord/testbed/src"
+    - "-I/home/Abhinesh/personal/daemon_lord/engine/src"
+
