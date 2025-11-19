@@ -41,25 +41,6 @@
 
 ---
 
-## Folder Structure
-
-DaemonLordEngine/
-│
-├─ Engine/ # Core engine source code
-│ ├─ src/
-│ ├─ include/
-│ └─ build/
-│
-├─ Testbed/ # Minimal sandbox for running the engine
-│ ├─ src/
-│ └─ build/
-│
-├─ build.sh # Unified build script for Engine + Testbed
-└─ docs/ # Documentation, diagrams, banners, etc.
-
-
----
-
 ## Build & Run
 
 Both the **Engine** and **Testbed** are built through the `build.sh` script.
