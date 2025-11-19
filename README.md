@@ -48,7 +48,7 @@ Both the **Engine** and **Testbed** are built through the `build.sh` script.
 ### **Prerequisites**
 - **C++ Standard:** C++23  
 - **Compiler:** Clang++  
-- **Supported Platforms:** Linux,
+- **Supported Platforms:** Linux (X11)
 - **Build Script:** `build.sh`
 
 ---
